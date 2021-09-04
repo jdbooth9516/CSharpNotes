@@ -1,0 +1,16 @@
+/home/jeremiah/Desktop/coding/C#/obj/Debug/net5.0/C#.csprojAssemblyReference.cache
+/home/jeremiah/Desktop/coding/C#/obj/Debug/net5.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/jeremiah/Desktop/coding/C#/obj/Debug/net5.0/C#.AssemblyInfoInputs.cache
+/home/jeremiah/Desktop/coding/C#/obj/Debug/net5.0/C#.AssemblyInfo.cs
+/home/jeremiah/Desktop/coding/C#/obj/Debug/net5.0/C#.csproj.CoreCompileInputs.cache
+/home/jeremiah/Desktop/coding/C#/bin/Debug/net5.0/C#
+/home/jeremiah/Desktop/coding/C#/bin/Debug/net5.0/C#.deps.json
+/home/jeremiah/Desktop/coding/C#/bin/Debug/net5.0/C#.runtimeconfig.json
+/home/jeremiah/Desktop/coding/C#/bin/Debug/net5.0/C#.runtimeconfig.dev.json
+/home/jeremiah/Desktop/coding/C#/bin/Debug/net5.0/C#.dll
+/home/jeremiah/Desktop/coding/C#/bin/Debug/net5.0/ref/C#.dll
+/home/jeremiah/Desktop/coding/C#/bin/Debug/net5.0/C#.pdb
+/home/jeremiah/Desktop/coding/C#/obj/Debug/net5.0/C#.dll
+/home/jeremiah/Desktop/coding/C#/obj/Debug/net5.0/ref/C#.dll
+/home/jeremiah/Desktop/coding/C#/obj/Debug/net5.0/C#.pdb
+/home/jeremiah/Desktop/coding/C#/obj/Debug/net5.0/C#.genruntimeconfig.cache
