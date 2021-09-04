@@ -7,16 +7,28 @@ namespace C_
         static void Main(string[] args)
         {
         // type name  new object
-         Car myCar = new Car();
+        Car myCar = new Car("black", "nissan", "gtr", 2001);
 
-          myCar.color = "black";
-          myCar.isConvertable = false;
-          myCar.make = "POS";
-          myCar.model = "very POS";
-          myCar.year = 2010; 
+        myCar.Paint("Purple");
 
-          Console.WriteLine(myCar.color + " " + myCar.model);
-          
-       }
+        Console.WriteLine(myCar.color);
+
+        // if statements 
+        int randNumber = 5;
+
+        if (randNumber > 4)
+        {
+          System.Console.WriteLine("higher");
+        }
+        else if (randNumber < 6)
+        {
+          System.Console.WriteLine("less");
+        }
+        else
+        {
+          System.Console.WriteLine("This is it");
+        }
+
+      } 
     }
 }
